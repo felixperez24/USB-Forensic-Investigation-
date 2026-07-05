@@ -19,20 +19,20 @@ This project documents a Windows USB forensic investigation in which I analyzed 
 - <b>Windows 11</b>
 
 <p align="center">
-Create Files For I: <br/>
-<img src="https://imgur.com/a/P3cKriu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Files For Investigation: <br/>
+<img src="screenshots forensics case/Screenshot 2026-05-10 095309.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Copy Confidential files to a usb device:  <br/>
+<img src="screenshots forensics case/Screenshot 2026-05-10 095939.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Using USBDeview Gather Vital information such as the devices name, serial number, first insert, last insert, last removal: <br/>
+<img src="screenshots forensics case/Screenshot 2026-05-10 100230.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clicking on the device in USBDeview shows a more detailed description of said device that you can record for your investigation:  <br/>
+<img src="screenshots forensics case/Screenshot 2026-05-10 100300.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
